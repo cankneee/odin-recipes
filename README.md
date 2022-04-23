@@ -1,2 +1,2 @@
 # odin-recipes
-recipe list
+Recipe list for 3 items
